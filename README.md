@@ -124,6 +124,15 @@ Miguel Re Ibarra
 
 Licencia ISC generada automáticamente por npm.
 
+
+## Información técnica añadida desde rama 2
+
+A continuación, se muestra el historial de commits de la rama main en este punto:
+f68e54b (HEAD -> Rama2_5291, origin/Rama2_5291) Añadir comentario en README.md para rama 2 de la etapa 7
+7ee9df5 (origin/main, main) Añadir un comentario al fichero al fichero server.js
+0afc7ca Cambiar el color de fondo del botón
+5569243 Primer commit: etapa 4
+
 ## Información técnica añadida desde rama 1
 En esta sección se describen los principales comandos de Git
 utilizados durante la práctica:
@@ -133,3 +142,4 @@ utilizados durante la práctica:
 - git branch: (COMPLETAR)
 - git merge: (COMPLETAR)
 - git push: (COMPLETAR)
+
