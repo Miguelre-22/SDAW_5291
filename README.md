@@ -123,3 +123,6 @@ Miguel Re Ibarra
 ## 📚 Licencia
 
 Licencia ISC generada automáticamente por npm.
+
+
+## Cambio para etapa 7, rama 1
