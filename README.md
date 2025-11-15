@@ -123,3 +123,13 @@ Miguel Re Ibarra
 ## 📚 Licencia
 
 Licencia ISC generada automáticamente por npm.
+
+## Información técnica añadida desde rama 1
+En esta sección se describen los principales comandos de Git
+utilizados durante la práctica:
+- git init: (COMPLETAR)
+- git add: (COMPLETAR)
+- git commit: (COMPLETAR)
+- git branch: (COMPLETAR)
+- git merge: (COMPLETAR)
+- git push: (COMPLETAR)
