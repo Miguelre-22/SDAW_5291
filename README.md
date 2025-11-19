@@ -143,6 +143,7 @@ utilizados durante la práctica:
 - git merge: (COMPLETAR)
 - git push: (COMPLETAR)
 
+
 ## Información técnica añadida desde rama 4
 Se incluye información para conectar un repositorio local con GitLab:
 
@@ -156,3 +157,27 @@ Se incluye información para conectar un repositorio local con GitLab:
 5. Subir los archivos:
    git push gitlab main
 6. Repetir para otras ramas si es necesario.
+
+## Información técnica añadida desde rama 3
+
+La tarea anterior no era muy complicada pero si muy larga.
+
+ git log --oneline --graph --all
+*   addf5e5 (HEAD -> Rama3_5291, origin/main, gitlab/main, main, Rama4_5291) Merge pull request #2 from Miguelre-22/Rama2_5291
+|\
+| *   47f35ef Merge branch 'main' into Rama2_5291
+| |\
+| |/
+|/|
+* |   3b2b8f1 Merge pull request #1 from Miguelre-22/Rama1_5291
+|\ \
+| * | a5cc4fe (origin/Rama1_5291, Rama1_5291) Añadir comentario en README.md para rama 1 de la etapa 7
+| * | 744e6f7 Añadir comentario en README.md para rama 1 de la etapa 7
+|/ /
+| * 2c6734d (origin/Rama2_5291, Rama2_5291) Añadir comentario en README.md para rama 2 de la etapa 7
+| * f68e54b Añadir comentario en README.md para rama 2 de la etapa 7
+|/
+* 7ee9df5 Añadir un comentario al fichero al fichero server.js
+* 0afc7ca Cambiar el color de fondo del botón
+* 5569243 Primer commit: etapa 4
+
