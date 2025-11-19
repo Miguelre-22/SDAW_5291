@@ -165,16 +165,3 @@ La tarea anterior no era muy complicada pero si muy larga.
 * 7ee9df5 Añadir un comentario al fichero al fichero server.js
 * 0afc7ca Cambiar el color de fondo del botón
 * 5569243 Primer commit: etapa 4
-
-## Información técnica añadida desde rama 4
-Se incluye información para conectar un repositorio local con GitLab:
-
-1. Crear el repositorio en GitLab (vacío y público).
-2. Obtener la URL del remoto.
-3. Añadirlo al repositorio local:
-   git remote add gitlab <URL>
-4. Verificar remotos configurados:
-   git remote -v
-5. Subir los archivos:
-   git push gitlab main
-6. Repetir para otras ramas si es necesario.
