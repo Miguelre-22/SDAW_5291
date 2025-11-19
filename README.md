@@ -142,3 +142,17 @@ utilizados durante la práctica:
 - git branch: (COMPLETAR)
 - git merge: (COMPLETAR)
 - git push: (COMPLETAR)
+
+## Información técnica añadida desde rama 4
+Se incluye información para conectar un repositorio local con GitLab:
+
+
+1. Crear el repositorio en GitLab (vacío y público).
+2. Obtener la URL del remoto.
+3. Añadirlo al repositorio local:
+   git remote add gitlab <URL>
+4. Verificar remotos configurados:
+   git remote -v
+5. Subir los archivos:
+   git push gitlab main
+6. Repetir para otras ramas si es necesario.
